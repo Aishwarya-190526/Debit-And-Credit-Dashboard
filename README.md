@@ -1,54 +1,31 @@
-💳 Credit & Debit Dashboard
-📌 Project Overview
-The Credit & Debit Dashboard was developed to analyze banking transaction data and provide insights into cash inflows, cash outflows, and overall transaction behavior. The dashboard enables effective monitoring of financial activity and supports data-driven understanding of spending and income patterns.
+# Credit & Debit Dashboard 📊
 
-The project uses Power BI and Tableau for interactive data visualization, along with Excel and SQL for data cleaning, transformation, and querying.
+## Project Overview
+This project focuses on analyzing credit and debit transaction data to understand cash inflows, cash outflows, and overall transaction behavior. The dashboard helps track key financial metrics and provides clear insights into spending and income patterns to support data-driven decision-making.
 
-🎯 Project Objectives
-Analyze credit and debit transactions
+## Objectives
+- Analyze credit and debit transactions
+- Monitor cash inflows and cash outflows
+- Track transaction trends over time
+- Evaluate net balance and account activity
 
-Monitor total inflows and outflows
+## Tools & Technologies
+- Excel
+- Power BI
+- Tableau
+- SQL
 
-Track transaction trends over time
+## Key Insights
+- Comparison of total credit and total debit amounts
+- Net balance analysis to understand financial position
+- Transaction trends across different time periods
+- Overall account activity monitoring using KPIs
 
-Evaluate net balance and account activity
+## Project Files
+- Power BI dashboard file (.pbix) – available in Releases section
+- Tableau dashboard file (.twbx)
+- Dataset files (Excel / SQL)
 
-📊 Dashboard Highlights
-Total Credit Amount
+## Conclusion
+This dashboard demonstrates practical financial data analysis using Power BI and Tableau, along with data preparation using Excel and SQL. The project highlights the ability to transform raw transaction data into meaningful visual insights.
 
-Total Debit Amount
-
-Net Balance KPI
-
-Transaction count analysis
-
-Time-based trends (daily, monthly, yearly)
-
-Interactive filters and slicers
-
-🛠 Tools & Technologies
-Power BI
-
-Tableau
-
-Excel
-
-SQL
-
-📂 Dataset Description
-The dataset includes banking transaction details such as transaction date, transaction type (credit/debit), amount, and description or category. The data was cleaned and structured to support accurate analysis and visualization.
-
-
-📈 Key Learnings
-Practical experience with financial transaction data
-
-KPI design and dashboard development
-
-Comparative analysis using Power BI and Tableau
-
-Data transformation and reporting best practices
-
-👤 Author
-Aishwarya
-Final Year B.Tech (CSE – Data Science)
-Aspiring Data Analyst
