@@ -37,6 +37,8 @@ SQL
 
 📂 Dataset Description
 The dataset includes banking transaction details such as transaction date, transaction type (credit/debit), amount, and description or category. The data was cleaned and structured to support accurate analysis and visualization.
+
+
 📈 Key Learnings
 Practical experience with financial transaction data
 
