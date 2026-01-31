@@ -21,10 +21,6 @@ This project focuses on analyzing credit and debit transaction data to understan
 - Transaction trends across different time periods
 - Overall account activity monitoring using KPIs
 
-## Project Files
-- Power BI dashboard file (.pbix) – available in Releases section
-- Tableau dashboard file (.twbx)
-- Dataset files (Excel / SQL)
 
 ## Conclusion
 This dashboard demonstrates practical financial data analysis using Power BI and Tableau, along with data preparation using Excel and SQL. The project highlights the ability to transform raw transaction data into meaningful visual insights.
